@@ -1,115 +1,18 @@
-# 👋 Hi, I'm Sohaib Asghar
+# 💫 About Me:
+🔭 I’m currently working on  <br>Scalable SaaS applications using Next.js (App Router) | React Native | Flutter, NestJS, and PostgreSQL with clean architecture and RBAC.<br><br>👯 I’m looking to collaborate on  <br>Open-source projects, developer tools, SaaS platforms, and well-architected full-stack applications.<br><br>🤝 I’m looking for help with  <br>System design discussions, performance optimization at scale, and advanced backend patterns.<br><br>🌱 I’m currently learning  <br>Advanced system design, event-driven architectures, and performance tuning for large-scale applications.<br><br>💬 Ask me about  <br>JavaScript, React, Next.js, NestJS, clean architecture, RBAC, scalable frontend systems, and backend APIs.<br><br>⚡ Fun fact  <br>I care more about clean commits and architecture than flashy UI — scalability always wins.<br>
 
-🚀 **Senior Software Engineer | Full-Stack JavaScript Specialist**
 
-I am a senior software engineer with **7+ years of professional experience** building scalable, secure, and high-performance web and mobile applications. I specialize in modern **JavaScript ecosystems**, clean architecture, and production-ready systems.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sohaib-asghar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sohaibasghar1997@gmail.com) 
 
-I enjoy designing systems that are **maintainable, testable, and scalable**, while delivering excellent user experiences.
+# 💻 Tech Stack:
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Esbuild](https://img.shields.io/badge/esbuild-%23FFCF00.svg?style=for-the-badge&logo=esbuild&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![P5js](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Remix](https://img.shields.io/badge/remix-%23000.svg?style=for-the-badge&logo=remix&logoColor=white) ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white) ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white) ![Puppeteer](https://img.shields.io/badge/Puppeteer-%2340B5A4.svg?style=for-the-badge&logo=Puppeteer&logoSize=auto&logoColor=black) ![Sentry](https://img.shields.io/badge/sentry-%23362D59.svg?style=for-the-badge&logo=sentry&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
 
----
 
-## 🧠 Core Expertise
-
-### Frontend
-- React.js
-- Next.js (App Router, SSR)
-- React Native
-- Redux / State Management
-- Tailwind CSS, Material-UI, shadcn/ui
-- Responsive & accessible UI design
-
-### Backend
-- Node.js
-- Express.js
-- NestJS
-- RESTful APIs
-- Authentication & Authorization (RBAC)
-
-### Databases
-- PostgreSQL
-- MongoDB
-- ORM/ODM (TypeORM, Prisma)
-
-### Architecture & Engineering
-- SOLID Principles
-- Clean Architecture
-- Event-Driven Systems
-- Modular & Scalable Codebases
-- Caching (Redis)
-- Message Queues
-- System Design
-
-### Engineering Practices
-- Git & GitHub
-- Code Reviews
-- CI/CD Pipelines
-- Linting, Prettier, Husky
-- Security & Performance Optimization
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=sohaibasghar&limit=5&theme=transparent&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=sohaibasghar&icon=4&color=0)](https://visitcount.itsvg.in)
 
-## 🏗️ What I Build
-
-- Scalable SaaS platforms
-- Admin dashboards & internal tools
-- Role-based authentication systems (RBAC)
-- High-performance frontend applications
-- Mobile apps with React Native
-- Event-driven backend architectures
-- Reusable UI & component libraries
-
----
-
-## 📌 Featured Projects
-
-> *(Pinned repositories showcase my best work)*
-
-- **RBAC Authentication System**  
-  Secure role-based access control using Express/NestJS, React, and PostgreSQL.
-
-- **Next.js SaaS Starter**  
-  Production-ready Next.js App Router setup with Tailwind, shadcn, linting, and best practices.
-
-- **Event-Driven Backend Architecture**  
-  NestJS backend using queues, Redis caching, and clean architecture.
-
-- **Reusable UI Component Library**  
-  Scalable and reusable UI components built with React and modern styling tools.
-
----
-
-## 🚀 Current Focus
-
-- Advanced system design & backend scalability  
-- High-performance Next.js applications  
-- Clean architecture & domain-driven design  
-- Improving developer experience & code quality  
-
----
-
-## 🤝 Professional Experience
-
-- Senior Software Engineer at **Devigital Systems**
-- Experience leading frontend architecture and contributing to backend systems
-- Strong collaboration with cross-functional teams
-- Production experience with large-scale applications
-
----
-
-## 📈 GitHub Philosophy
-
-- Clean commits & meaningful commit messages
-- Well-documented repositories
-- Readable, maintainable code over hacks
-- Quality > quantity
-
----
-
-## 🌐 Connect With Me
-
-- 💻 GitHub: https://github.com/sohaibasghar
-- 💼 LinkedIn: *(add your LinkedIn URL here)*
-
----
-
-⭐ If you’re looking for **clean code, scalable systems, and a senior engineering mindset**, you’re in the right place.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
